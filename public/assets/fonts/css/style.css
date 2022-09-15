@@ -1,0 +1,15 @@
+/*--------------------------OUTFIT--------------------------*/
+
+/* 700 */
+@font-face {
+  font-family: "Outfit, Bold";
+  src: url("../families/outfit/Outfit-Bold.ttf") format("truetype");
+}
+
+/* 400 */
+@font-face {
+  font-family: "Outfit, Regular";
+  src: url("../families/outfit/Outfit-Regular.ttf") format("truetype");
+}
+
+/*--------------------------OUTFIT--------------------------*/

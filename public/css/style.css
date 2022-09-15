@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Colors */
+  --light_gray: hsl(212, 45%, 89%);
+  --grayish_blue: hsl(220, 15%, 55%);
+  --dark_blue: hsl(218, 44%, 22%);
+  --white: hsl(0, 0%, 100%);
+
+  /* Font family */
+  --outfit_bold: "Outfit, Bold";
+  --outfit_regular: "Outfit, Regular";
+
+  /* Font size paragraph */
+  --para_font_size: 0.9rem;
+
+  /* Border radius */
+  --border_radius: 0.5rem;
+}
+
+body {
+  font-size: 1rem;
+  background-color: var(--primary_cream);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
